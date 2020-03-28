@@ -1,18 +1,18 @@
 {
   "name": "Jeepney Traveller",
-  "short_name": " Jeepney Traveller",
+  "short_name": "Jeepney Traveller",
   "description": "Your guide in traveling Philippine destinations via public transport.",
-  "start_url": "https://jeepneytraveller.blogspot.com/ ",
+  "start_url": "https://jeepneytraveller.blogspot.com",
   "background_color": "#ffdbac",
   "theme_color": "#fd982b",
   "display": "fullscreen",
   "icons": [{
-    "src": "https://3.bp.blogspot.com/-OMLggy7glNU/Xn6Np8dak4I/AAAAAAAAAn0/_ZRhuDw5e-YJPLfsS0BSUaf2m-HGRRBmgCLcBGAsYHQ/s1600/jeepney%2Bsquare%2Blogo%2B195px.png",
-    "sizes": "195x195",
+    "src": "https://4.bp.blogspot.com/-GLgSVZe3u1g/Xn6xgoG4CmI/AAAAAAAAAoQ/c8icJcahjkcx-s6TKyem_1XUd6KXJ-VegCLcBGAsYHQ/s320/android-chrome-192x192.png",
+    "sizes": "192x192",
     "type": "image/png"
   },
            {
-    "src": "https://2.bp.blogspot.com/-NAfzR-1TxqI/Xn6p40Pl-PI/AAAAAAAAAoA/VYD5jsPn1MEwihNYJUqpDOkHn8S61r1bACLcBGAsYHQ/s1600/jeepney%2Bsquare%2Blogo%2B512px.png",
+    "src": "https://1.bp.blogspot.com/-ZrLK9Po78iw/Xn6xgmce2EI/AAAAAAAAAoU/yzIIvqVm_ckFTfvlzNJ9SlJIWRUkCRYHwCLcBGAsYHQ/s320/android-chrome-512x512.png",
     "sizes": "512x512",
     "type": "image/png"
             }]
